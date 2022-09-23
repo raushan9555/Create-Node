@@ -28,6 +28,6 @@ public boolean equals(Object other) {
 }
 @Override
 public int hashCode() {
-	return tkjhgfdsdfghjklkjhgfhis.value.hashCode();
+	return this.value.hashCode();
 }
 }
